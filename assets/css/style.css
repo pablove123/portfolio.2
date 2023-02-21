@@ -519,6 +519,7 @@ section {
 --------------------------------------------------------------*/
 .portfolio .portfolio-item {
   margin-bottom: 30px;
+  text-align: center;
 }
 
 .portfolio #portfolio-flters {
@@ -558,6 +559,7 @@ section {
   position: relative;
   overflow: hidden;
   z-index: 1;
+  text-align: center;
 }
 
 .portfolio .portfolio-wrap::before {
@@ -571,6 +573,7 @@ section {
   transition: all ease-in-out 0.3s;
   z-index: 2;
   opacity: 0;
+  text-align: center;
 }
 
 .portfolio .portfolio-wrap .portfolio-links {
