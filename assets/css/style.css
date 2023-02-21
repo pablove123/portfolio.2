@@ -420,7 +420,7 @@ section {
 # Akills
 --------------------------------------------------------------*/
 .skills .progress {
-  height: 60px;
+  height: 30px;
   display: block;
   background: none;
   border-radius: 0;
@@ -443,14 +443,17 @@ section {
 
 .skills .progress-bar-wrap {
   background: #dce8f8;
-  height: 10px;
+  height: 30px;
 }
 
 .skills .progress-bar {
   width: 1px;
-  height: 10px;
+  height: 30px;
   transition: 0.9s;
   background-color: #149ddd;
+}
+.Icon > img{
+  height: 50px;
 }
 
 /*--------------------------------------------------------------
