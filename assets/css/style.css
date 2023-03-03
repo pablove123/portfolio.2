@@ -621,6 +621,30 @@ section {
   bottom: 0;
 }
 
+
+#portfioItem{
+  border: 2px solid black;
+  margin: 20px;
+  padding: 10px;
+}
+#portfolioItems{
+  display: flex;
+}
+
+.portfolio-wrap{
+  margin-bottom: 20px;
+}
+#projectTitle{
+  text-decoration: underline;
+}
+
+@media screen and (max-width: 400px) {
+  #portfioItem{
+    margin: 0px;
+    padding: 5px;
+  }
+}
+
 /*--------------------------------------------------------------
 # Portfolio Details
 --------------------------------------------------------------*/
