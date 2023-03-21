@@ -228,7 +228,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("https://pixy.org/src/474/thumbs350/4741466.jpg") top center;
+  background: url("https://images.unsplash.com/photo-1606247357835-d27fe83fc6a3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469&q=80") top center;
   background-size: cover;
 }
 
@@ -467,6 +467,10 @@ section {
   color: #050d18;
 }
 
+.resumeTitle{
+  font-size: 30px;
+}
+
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
@@ -650,6 +654,9 @@ section {
 --------------------------------------------------------------*/
 .portfolio-details {
   padding-top: 40px;
+}
+.pigImg{
+  max-width: 50%;
 }
 
 .portfolio-details .portfolio-details-slider img {
